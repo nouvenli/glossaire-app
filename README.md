@@ -10,7 +10,7 @@ TypeScript (tsconfig.json) : JavaScript typé, proche de Kotlin.
 pnpm (pnpm-lock.yaml) : gestionnaire de paquets.
 Drizzle (drizzle.config.ts) : ORM pour base de données (probablement SQLite ou PostgreSQL).
 
-##Structure full-stack :
+## Structure full-stack :
 client/ : interface utilisateur (React/Vue/Svelte)
 server/ : API back-end (Node.js/Express/Fastify)
 shared/ : code commun (types, utilitaires)
